@@ -454,7 +454,7 @@ horizontal lines (`-`), and corners (`+`), with the start location unchanged
 (`@`) and the treasure overwritten with an `X`.
 
 ```
-X+...
+oX...
 o|...
 #|.o.
 .|oo.
@@ -483,7 +483,6 @@ Sail:
 Search:
 1,1
 0,1
-0,0
 ```
 
 The number of coordinates should be one more than the length of the path. For

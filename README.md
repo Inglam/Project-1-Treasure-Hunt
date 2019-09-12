@@ -966,6 +966,8 @@ or
 
 ## Appendix V: The Example Video
 
-This is currently under production and should be released in the next day or
-so. We will announce the release on Piazza, and then update the link in this
-document.
+A video with a small example that uses a stack and queue, handles "dead ends"
+while both sailing and searching, ignoring impassable terrain, multiple trips
+ashore, and an ultimately successful treasure hunt.
+
+[Video on YouTube](https://youtu.be/0gW2qWU_O40)

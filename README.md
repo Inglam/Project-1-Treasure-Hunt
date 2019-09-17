@@ -366,7 +366,7 @@ Treasure hunt started at: 4,4
 Went ashore at: 3,3
 Searching island... party returned with no treasure
 Went ashore at: 1,1
-Searching island... party found treasure at 0,0
+Searching island... party found treasure at 0,0.
 ```
 
 or

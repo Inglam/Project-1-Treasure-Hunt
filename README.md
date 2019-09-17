@@ -389,10 +389,10 @@ Results."
 --- STATS ---
 Starting location: 4,4
 Water locations investigated: 8
-Land locations investigated: 6
+Land locations investigated: 5
 Went ashore: 2
-Path length: 8
-Treasure location: 0,0
+Path length: 7
+Treasure location: 0,1
 --- STATS ---
 ```
 
@@ -430,7 +430,7 @@ Treasure location) of stats output.**
 --- STATS ---
 Starting location: 4,4
 Water locations investigated: 8
-Land locations investigated: 6
+Land locations investigated: 5
 Went ashore: 2
 --- STATS ---
 ```

@@ -659,9 +659,9 @@ any warnings about an invalid security certificate.
 
 The autograders are identical and the daily submission limit will be shared
 (and kept track of) between them. The autograders will accept three Project 1
-submissions per day, per student. For this purpose, days begin and end at
-midnight (Ann Arbor local time). The highest graded submission will be used
-during "final grading" to determine the score of the project.
+submissions per day, per student (more in Spring). For this purpose, days begin
+and end at midnight (Ann Arbor local time). The highest graded submission will
+be used during "final grading" to determine the score of the project.
 
 When the autograders are turned on and accepting submissions, there will be
 announcements made in lecture, in lab, and on Piazza. There is *NEVER* any

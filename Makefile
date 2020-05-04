@@ -21,10 +21,10 @@
 # TODO (begin) #
 #######################
 # Change IDENTIFIER to match the project identifier given in the project spec.
-IDENTIFIER  = EEC50281EEC50281EEC50281EEC50281EEC50281
+IDENTIFIER  = 40FB54C86566B9DDEAB902CC80E8CE85C1C62AAD
 
 # Change 'executable' to match the command name given in the project spec.
-EXECUTABLE  = executable
+EXECUTABLE  = hunt
 
 # The following line looks for a project's main() in files named project*.cpp,
 # executable.cpp (substituted from EXECUTABLE above), or main.cpp
